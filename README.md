@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Pokèdex API" src=".github/preview.png" width="100%">
+  <img alt="Pokèdex API" src=".github/preview.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
